@@ -8,7 +8,7 @@ function Docs() {
           <div className="col-lg-8 col-lg-offset-2">
             <br />
             <span className="flex">
-              <a href="./">
+              <a href="/melo">
                 {" "}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
