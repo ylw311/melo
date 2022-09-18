@@ -8,7 +8,7 @@ function Docs() {
           <div className="col-lg-8 col-lg-offset-2">
             <br />
             <span className="flex">
-              <a href="/">
+              <a href="./">
                 {" "}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -40,7 +40,7 @@ function Docs() {
             <p>
               {" "}
               Feel free to visit our{" "}
-              <a href="https://github.com/ricsign/melo">
+              <a href="https://github.com/Darth-Raazi/melo">
                 <u>GitHub</u>
               </a>{" "}
               for the source-code.{" "}

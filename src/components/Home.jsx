@@ -12,7 +12,7 @@ function Home() {
 
           <Searchbar setSearchedSongs={setSearchedSongs} />
           <br />
-          <a href="/docs">
+          <a href="./docs">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="22"
@@ -28,7 +28,7 @@ function Home() {
         </div>
       ) : (
         <div>
-          <a href="/melo">
+          <a href="./">
             <h1 className="title">Me♪o</h1>
           </a>
           <Searchbar setSearchedSongs={setSearchedSongs} />
