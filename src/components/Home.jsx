@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
 import Searchbar from "./Searchbar";
 import MusicCards from "./MusicCards";
 
@@ -29,7 +28,7 @@ function Home() {
         </div>
       ) : (
         <div>
-          <a href="/">
+          <a href="/melo">
             <h1 className="title">Me♪o</h1>
           </a>
           <Searchbar setSearchedSongs={setSearchedSongs} />
